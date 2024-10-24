@@ -11,6 +11,7 @@ This **Android application** leverages **Retrofit** to connect to the **JSONPlac
 * **JsonPlaceholder**
 * **Jetpack Compose**
 
+---
 <div align="center">
   <img src="https://i.imgur.com/kl61a17.png" alt="user list"/>
   <img src="https://i.imgur.com/7mSXQnx.png" alt="posts list"/>
